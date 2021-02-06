@@ -8,7 +8,7 @@ HTML, CSS, Bootstrap을 사용하는 데 익숙해지기 위해 오늘부터 Clo
 
 
 
-![image-20210206195412517](D:\STUDY\웹페이지 만들기\webpage_02\README.assets\image-20210206195412517.png)
+![image-20210206195412517](.\README.assets\image-20210206195412517.png)
 
 
 
@@ -20,7 +20,9 @@ HTML, CSS, Bootstrap을 사용하는 데 익숙해지기 위해 오늘부터 Clo
 
 ##### 2.1.1 진행상황
 
-![image-20210206194556476](D:\STUDY\웹페이지 만들기\webpage_02\README.assets\image-20210206194556476.png) 
+
+
+![image-20210206194556476](.\README.assets\image-20210206194556476.png) 
 
 nav 태그와 image와 text를 담는 부분까지 구현해보았다. 
 
