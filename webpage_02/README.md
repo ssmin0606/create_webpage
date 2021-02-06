@@ -8,7 +8,7 @@ HTML, CSS, Bootstrap을 사용하는 데 익숙해지기 위해 오늘부터 Clo
 
 
 
-![image-20210206195412517](.\README.assets\image-20210206195412517.png)
+![image-20210206195412517](./README.assets/image-20210206195412517.png)
 
 
 
@@ -22,7 +22,7 @@ HTML, CSS, Bootstrap을 사용하는 데 익숙해지기 위해 오늘부터 Clo
 
 
 
-![image-20210206194556476](.\README.assets\image-20210206194556476.png) 
+![image-20210206194556476](./README.assets/image-20210206194556476.png) 
 
 nav 태그와 image와 text를 담는 부분까지 구현해보았다. 
 
@@ -42,7 +42,6 @@ nav 태그와 image와 text를 담는 부분까지 구현해보았다.
 
 
 ##### 2.1.3 다음 진행 방향
-
 - `2주 무료 이용 시작`을 클릭하면 다른 페이지로 넘어갈 수 있게 구현
 - `2주 무료 이용 시작.html` 간이 제작
 - 이미지를 넘길 수 있는 버튼 구현
